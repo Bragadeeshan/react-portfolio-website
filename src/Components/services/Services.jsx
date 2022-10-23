@@ -5,104 +5,104 @@ import {AiOutlineCheckCircle} from 'react-icons/ai'
 const Services = () => {
   return (
     <section id='services'>
-      <h5> What I Offer</h5>
-      <h2>Services</h2>
+      <h5> What I Do</h5>
+      <h2>Skills & Interests</h2>
       <div className="contatiner services__container">
         <article className='service'>
           <div className='service__head'>
-          <h3>UI/UX Design</h3>
+          <h3>Technical Skills</h3>
           </div>
 
           <ul className='service__list'>
             <li>
               <AiOutlineCheckCircle className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Web Development</p>
             </li>
             <li>
               <AiOutlineCheckCircle className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Programming Languages</p>
             </li>
             <li>
               <AiOutlineCheckCircle className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>PCB Design</p>
             </li>
             <li>
               <AiOutlineCheckCircle className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>3D Modelling</p>
             </li>
             <li>
               <AiOutlineCheckCircle className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Content Creation</p>
             </li>
             <li>
               <AiOutlineCheckCircle className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Document Mangement</p>
             </li>
           </ul>
         </article>
         {/*END OF UI/UX*/}
         <article className='service'>
           <div className='service__head'>
-          <h3>Web Development</h3>
+          <h3>Interests</h3>
           </div>
 
           <ul className='service__list'>
             <li>
               <AiOutlineCheckCircle className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>IOT</p>
             </li>
             <li>
               <AiOutlineCheckCircle className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Web Development</p>
             </li>
             <li>
               <AiOutlineCheckCircle className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Machine Learning</p>
             </li>
             <li>
               <AiOutlineCheckCircle className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Graphic Designing</p>
             </li>
             <li>
               <AiOutlineCheckCircle className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Video Editing And Production</p>
             </li>
             <li>
               <AiOutlineCheckCircle className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Digital Marketing</p>
             </li>
           </ul>
         </article>
         {/*END OF WEB DEVELOPMENT*/}
         <article className='service'>
           <div className='service__head'>
-          <h3>Content Creation</h3>
+          <h3>Personal Skills</h3>
           </div>
 
           <ul className='service__list'>
             <li>
               <AiOutlineCheckCircle className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Critical & Analitical Thinking</p>
             </li>
             <li>
               <AiOutlineCheckCircle className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Decision Making</p>
             </li>
             <li>
               <AiOutlineCheckCircle className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Project Mangment</p>
             </li>
             <li>
               <AiOutlineCheckCircle className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Team player</p>
             </li>
             <li>
               <AiOutlineCheckCircle className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Innovation</p>
             </li>
             <li>
               <AiOutlineCheckCircle className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Fast learner</p>
             </li>
           </ul>
         </article>
