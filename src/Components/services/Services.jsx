@@ -53,7 +53,7 @@ const Services = () => {
             </li>
             <li>
               <AiOutlineCheckCircle className='service__list-icon'/>
-              <p>Web Development</p>
+              <p>Cloud Computing</p>
             </li>
             <li>
               <AiOutlineCheckCircle className='service__list-icon'/>
@@ -61,7 +61,7 @@ const Services = () => {
             </li>
             <li>
               <AiOutlineCheckCircle className='service__list-icon'/>
-              <p>Graphic Designing</p>
+              <p>DevOps</p>
             </li>
             <li>
               <AiOutlineCheckCircle className='service__list-icon'/>
